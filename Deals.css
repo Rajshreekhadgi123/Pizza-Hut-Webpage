@@ -1,0 +1,186 @@
+
+/* header */
+.header{
+    border-top: 1px solid rgb(241, 232, 232);
+    border-bottom: 1px solid  rgb(241, 232, 232);
+    background-color: white;
+}
+
+.logo {
+    background-color: white;
+    
+    
+    
+}
+.logo img{
+    margin-top: 20px;
+    margin-left: 170px;
+    margin-bottom: 20px;
+    
+}
+
+/* nav */
+ul{
+    list-style-type: none;
+    margin-left: 100px;
+   
+    
+   
+}
+.navi li{
+    border-right: 1px solid  rgb(241, 232, 232);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 5px;
+}
+
+a{
+    color: black;
+   
+}
+
+.navi :hover{
+    background-image: url("assets/back.jpg");
+    color: white;
+}
+
+
+/* ---------------------------------------------------------------------------- */
+/* background image */
+
+body{
+    background: url("assets/back2.jpg");
+    width: 1334px;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+/* cards */
+
+.container .head h2{
+    font-size: 32px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.container .para p{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+
+.card{
+    width: 263px;
+    margin-top: 15px;
+    height: 380px;
+    
+}
+.card a{
+    padding: 12px;
+    font-size: 17px;
+    font-weight: 600;
+   
+}
+
+.card-title{
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+    
+}
+.card-text{
+    font-size: 15px;
+   
+}
+.row1{
+    margin-left: 2px;
+}
+
+.card:hover{
+    box-shadow:  0px 5px 10px 0px rgba(0, 0, 0, 0.5); ;
+}
+
+
+
+/* --------------------------------------------------------------------------------------- */
+
+/* footer */
+
+
+footer{
+    background-color: black;
+    height: 470px;
+    width: 1349px;
+    margin-top: 50px;
+}
+
+.col11 , .col12 , .col13 , .col14  {
+   color: white;
+   margin-top: 50px;
+  
+}
+
+.link a{
+  color: white;
+  font-size: 11px;
+  
+  
+}
+.link{
+    line-height: 95%;
+}
+
+.secrow p{
+    color: white;
+    font-size: 15px;
+    padding-left: 60px;
+    
+    
+   
+}
+.secrow button{
+   
+   margin-left: 20px;
+   background-color: rgb(219, 215, 215);
+   font-size: 15px;
+   padding-top:-30px;
+   padding-bottom:-30px;
+   
+}
+
+
+.secrow{
+    margin-top: 15px;
+}
+.follow {
+    color: white;
+    padding-left: 250px;
+    margin-top: -22px;
+}
+.icon i{
+    padding-left: 20px;
+    
+}
+.icon{
+    margin-left: -50px;
+}
+.lrow{
+    font-size: 12px;
+    color: rgb(153, 149, 149);
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+
+
+
