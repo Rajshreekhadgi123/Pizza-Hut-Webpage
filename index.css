@@ -40,7 +40,7 @@ a{
 }
 
 .navi :hover{
-    background-image: url("back.jpg");
+    background-image: url(back.jpg);
     color: white;
 }
 
